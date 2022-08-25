@@ -1,0 +1,25 @@
+
+1-Quais as conclusões que se pode tirar para a queda de vendas de Março?
+
+A partir dos dados extraídos, a primeira observação foi que o Ticket Médio se manteve sem grandes variações (Gráficos 1,2 e Tabela 1),
+o que indica que a queda do faturamento foi de fato só pela queda das vendas, sem indicar uma possível mudança nos preços dos produtos
+ou promoção. O comportamento do faturamento diário no mês de março não apresentou nenhum tipo de vale ou pico, confirmando que o mês 
+como um todo foi de vendas baixas (Gráfico 6) (excluindo hipóteses de que o site ficara fora ar por alguns dias ou queda de conversão 
+no site). Ademais, nos Gráficos 3,4 e 5 pude estabelecer um público alvo na faixa dos 25-40 anos representando mais de 50% dos clientes.
+Comparando o comportamento do faturamento por idade (Gráfico 7) nota-se que a queda de março foi ainda mais acentuada no público alvo. 
+O que leva a concluir que a queda de vendas pode ter vindo de uma mudança no algoritmo de mkt (Google Ads, Faceads e outros) que foi 
+mais expressiva na faixa etária mais aderente aos produtos. 
+
+
+2-(Opcional) Existe algum outro padrão nos dados analisados que pode ser útil para a tomada de decisão nos negócios da empresa?
+
+Para a investigação da queda de vendas, olhei relações do faturamento com cada variável apresentada. A partir do Gráfico 2 é possível 
+entender a preocupação da empresa com a venda dos produtos para cabelos lisos, claramente para o mês de março os produtos para cabelos
+lisos foram os que apresentaram a maior variação, passando do produto mais vendido para o menos vendido em março. Adicionalmente,
+mediante aos dados que tive acesso, acredito que seria melhor ter dados com períodos mais longos para analisar a sazonalidade e avaliar
+se o comportamento destes dados é esperado para a época do ano. Outra melhoria seria criar uma coluna de identificação do cliente para
+saber melhor sobre o comportamento do cliente. Por exemplo: criação de uma coluna 'E-mail', a cada 45 dias fazer um follow up para 
+incentivar a compra dos produtos que provavelmente estarão acabando; para clientes que fizeram sua última compra a mais de 90 dias outro
+follow up para incentivar ou receber promoções/avisos.
+
+ 
