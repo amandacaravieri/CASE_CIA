@@ -1,0 +1,11 @@
+-- Visualização das tabelas 
+SELECT * FROM orders;
+SELECT * FROM forms;
+-- Datas Mínimas e máximas 
+SELECT MAX(created) FROM orders;
+SELECT MIN(created) FROM orders;
+-- JOIN
+
+SELECT o.id,o.created,o.value,o.form_id,f.id, f.hair_type,f.age FROM orders o
+LEFT OUTER JOIN forms f
+ON o.form_id = f.id;
